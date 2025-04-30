@@ -1,0 +1,12 @@
+[package]
+name = "axtest"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+accessibility = "0.2.0"
+accessibility-sys = "0.2.0"
+core-foundation = "0.10.0"
+core-foundation-sys = "0.8.7"
+core-graphics = "0.24.0"
+core-graphics2 = "0.4.1"
